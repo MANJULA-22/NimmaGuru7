@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Nimma Guru</string>
+    <string name="login_subtitle">Community Mentorship Karnataka</string>
+    <string name="student">Student</string>
+    <string name="mentor">Mentor</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_as_guru">Login as Guru</string>
+    <string name="login_as_student">Login as Student</string>
+
+    <string name="create_profile">Create Guru Profile</string>
+    <string name="edit_profile">Edit Your Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="village">Village / Street</string>
+    <string name="select_skills">Select Your Subjects / Skills</string>
+    <string name="availability_label">When can you teach? (e.g., Every Sunday)</string>
+    <string name="about_you">A little about yourself</string>
+    <string name="save_profile">SAVE PROFILE</string>
+
+    <string name="search_placeholder">Search by name or village...</string>
+    <string name="search_by_subject">Search by Subject...</string>
+    <string name="filter_by_subject">Filter by Subject</string>
+    <string name="all_subjects">All Subjects</string>
+    <string name="no_gurus_found">No gurus found matching your search.</string>
+    <string name="loading">Loading...</string>
+
+    <string name="wall_of_fame_title">Wall of Fame 🏆</string>
+    <string name="top_heroes">Our Top Rated Community Heroes</string>
+    <string name="no_wall_of_fame">No gurus have reached the Wall of Fame yet. Keep learning!</string>
+
+    <string name="thank_you_title">Thank You, %1$s</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_rating">Your Rating</string>
+    <string name="rating_display">Rating: %1$d / 5</string>
+    <string name="write_thank_you">Write a \'Thank You\' note</string>
+    <string name="post_appreciation">Post Appreciation</string>
+    <string name="reviews_count">(%1$d reviews)</string>
+
+    <string name="class_calendar_title">Class Calendar 📅</string>
+    <string name="upcoming_sessions">Upcoming Sessions at Samudaya Bhavana</string>
+    <string name="no_classes_found">No upcoming classes scheduled at Samudaya Bhavana.</string>
+    <string name="schedule_class">Schedule a Session</string>
+    <string name="samudaya_bhavana">Samudaya Bhavana</string>
+
+    <string name="elderly_tip_name">Tap here to type your full name</string>
+    <string name="elderly_tip_village">Tap here to type your village name</string>
+    <string name="elderly_tip_about">Tap here to tell us about your experience</string>
+
+    <string-array name="skills_array">
+        <item>Agriculture</item>
+        <item>Math</item>
+        <item>Science</item>
+        <item>Carpentry</item>
+        <item>English</item>
+        <item>Kannada</item>
+        <item>Gardening</item>
+        <item>Yoga</item>
+    </string-array>
+</resources>

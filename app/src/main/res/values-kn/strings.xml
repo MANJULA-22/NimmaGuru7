@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ನಿಮ್ಮ ಗುರು</string>
+    <string name="login_subtitle">ಸಮುದಾಯ ಮಾರ್ಗದರ್ಶನ ಕರ್ನಾಟಕ</string>
+    <string name="student">ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="mentor">ಮಾರ್ಗದರ್ಶಕ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="login_as_guru">ಗುರುವಿನಂತೆ ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="login_as_student">ವಿದ್ಯಾರ್ಥಿಯಂತೆ ಲಾಗಿನ್ ಮಾಡಿ</string>
+
+    <string name="create_profile">ಗುರು ಪ್ರೊಫೈಲ್ ರಚಿಸಿ</string>
+    <string name="edit_profile">ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ತಿದ್ದಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="village">ಹಳ್ಳಿ / ರಸ್ತೆ</string>
+    <string name="select_skills">ನಿಮ್ಮ ವಿಷಯಗಳನ್ನು / ಕೌಶಲ್ಯಗಳನ್ನು ಆರಿಸಿ</string>
+    <string name="availability_label">ನೀವು ಯಾವಾಗ ಕಲಿಸಬಹುದು? (ಉದಾ: ಪ್ರತಿ ಭಾನುವಾರ)</string>
+    <string name="about_you">ನಿಮ್ಮ ಬಗ್ಗೆ ಸ್ವಲ್ಪ ಮಾಹಿತಿ</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+
+    <string name="search_placeholder">ಹೆಸರು ಅಥವಾ ಹಳ್ಳಿಯ ಮೂಲಕ ಹುಡುಕಿ...</string>
+    <string name="search_by_subject">ವಿಷಯದ ಮೂಲಕ ಹುಡುಕಿ...</string>
+    <string name="filter_by_subject">ವಿಷಯದ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಿ</string>
+    <string name="all_subjects">ಎಲ್ಲಾ ವಿಷಯಗಳು</string>
+    <string name="no_gurus_found">ಹುಡುಕಾಟಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವ ಯಾವುದೇ ಗುರುಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+
+    <string name="wall_of_fame_title">ಕೀರ್ತಿ ಗೋಡೆ 🏆</string>
+    <string name="top_heroes">ನಮ್ಮ ಉನ್ನತ ಶ್ರೇಣಿಯ ಸಮುದಾಯ ವೀರರು</string>
+    <string name="no_wall_of_fame">ಯಾವುದೇ ಗುರುಗಳು ಇನ್ನೂ ಕೀರ್ತಿ ಗೋಡೆಯನ್ನು ತಲುಪಿಲ್ಲ. ಕಲಿಕೆಯನ್ನು ಮುಂದುವರಿಸಿ!</string>
+
+    <string name="thank_you_title">ಧನ್ಯವಾದಗಳು, %1$s</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="your_rating">ನಿಮ್ಮ ರೇಟಿಂಗ್</string>
+    <string name="rating_display">ರೇಟಿಂಗ್: %1$d / 5</string>
+    <string name="write_thank_you">\'ಧನ್ಯವಾದ\' ಪತ್ರವನ್ನು ಬರೆಯಿರಿ</string>
+    <string name="post_appreciation">ಮೆಚ್ಚುಗೆಯನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿ</string>
+    <string name="reviews_count">(%1$d ವಿಮರ್ಶೆಗಳು)</string>
+
+    <string name="class_calendar_title">ತರಗತಿ ಕ್ಯಾಲೆಂಡರ್ 📅</string>
+    <string name="upcoming_sessions">ಸಮುದಾಯ ಭವನದಲ್ಲಿ ಮುಂಬರುವ ಅವಧಿಗಳು</string>
+    <string name="no_classes_found">ಸಮುದಾಯ ಭವನದಲ್ಲಿ ಯಾವುದೇ ಮುಂಬರುವ ತರಗತಿಗಳನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="schedule_class">ಅವಧಿಯನ್ನು ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="samudaya_bhavana">ಸಮುದಾಯ ಭವನ</string>
+
+    <string name="elderly_tip_name">ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಲು ಇಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="elderly_tip_village">ನಿಮ್ಮ ಹಳ್ಳಿಯ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಲು ಇಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="elderly_tip_about">ನಿಮ್ಮ ಅನುಭವದ ಬಗ್ಗೆ ನಮಗೆ ತಿಳಿಸಲು ಇಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+
+    <string-array name="skills_array">
+        <item>ಕೃಷಿ</item>
+        <item>ಗಣಿತ</item>
+        <item>ವಿಜ್ಞಾನ</item>
+        <item>ಬಡಗಿ ಕೆಲಸ</item>
+        <item>ಇಂಗ್ಲಿಷ್</item>
+        <item>ಕನ್ನಡ</item>
+        <item>ತೋಟಗಾರಿಕೆ</item>
+        <item>ಯೋಗ</item>
+    </string-array>
+</resources>

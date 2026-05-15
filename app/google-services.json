@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121620861760",
+    "project_id": "nimmaguru7",
+    "storage_bucket": "nimmaguru7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121620861760:android:a4b4278d0f1a7283bd20a5",
+        "android_client_info": {
+          "package_name": "com.example.nimmaguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrnuPTW68yB-W3vXrFefDxWT08Xnmepc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
